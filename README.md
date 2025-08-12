@@ -1,5 +1,9 @@
 # MachineLearning_Basics
 
+Click the button below to run the notebook directly in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/macSands/MachineLearning_Basics/blob/main/AfRSG_ML_example.ipynb)
+
 ---
 
 ## **Machine Learning for Poaching Risk Prediction in Kruger National Park**
