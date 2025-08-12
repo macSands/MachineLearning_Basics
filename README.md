@@ -1,7 +1,3 @@
-# MachineLearning_Basics
-
----
-
 ## **Machine Learning for Poaching Risk Prediction in Kruger National Park**
 
 #### Jupyter Notebook Demo: "What is Artificial Intelligence in the context of African Rhino Research"
